@@ -342,7 +342,7 @@
       brand_story = #{brandStory,jdbcType=LONGVARCHAR}
     where id = #{id,jdbcType=BIGINT}
   </update>
-  <update id="updateByPrimaryKey" parameterType="com.paoking.ease .mbg.model.PmsBrand">
+  <update id="updateByPrimaryKey" parameterType="com.paoking.ease.mbg.model.PmsBrand">
     update pms_brand
     set name = #{name,jdbcType=VARCHAR},
       first_letter = #{firstLetter,jdbcType=VARCHAR},
