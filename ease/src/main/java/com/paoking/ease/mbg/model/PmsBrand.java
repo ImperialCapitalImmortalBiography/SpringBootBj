@@ -1,7 +1,6 @@
 package com.paoking.ease.mbg.model;
 
 import io.swagger.annotations.ApiModelProperty;
-
 import java.io.Serializable;
 
 public class PmsBrand implements Serializable {

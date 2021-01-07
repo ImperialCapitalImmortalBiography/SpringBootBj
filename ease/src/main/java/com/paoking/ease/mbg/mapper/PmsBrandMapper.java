@@ -1,14 +1,12 @@
 package com.paoking.ease.mbg.mapper;
 
-
-import java.util.List;
-
 import com.paoking.ease.mbg.model.PmsBrand;
 import com.paoking.ease.mbg.model.PmsBrandExample;
+import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
 public interface PmsBrandMapper {
-    int countByExample(PmsBrandExample example);
+    long countByExample(PmsBrandExample example);
 
     int deleteByExample(PmsBrandExample example);
 
