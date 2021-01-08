@@ -1,5 +1,6 @@
 package com.paoking.ease.service;
 
+
 import com.paoking.ease.common.api.CommonResult;
 
 /**

@@ -1,6 +1,5 @@
 package com.paoking.ease.controller;
 
-
 import com.paoking.ease.common.api.CommonResult;
 import com.paoking.ease.service.UmsMemberService;
 import io.swagger.annotations.Api;
@@ -12,10 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-/**
- * 会员登录注册管理Controller
- * Created by macro on 2018/8/3.
- */
+
 @Controller
 @Api(tags = "UmsMemberController", description = "会员登录注册管理")
 @RequestMapping("/sso")
