@@ -7,6 +7,6 @@ import org.springframework.context.annotation.Configuration;
  * MyBatis配置类.
  */
 @Configuration
-@MapperScan("com.paoking.ease.mbg.mapper")
+@MapperScan({"com.paoking.ease.mbg.mapper","com.paoking.ease.dao"})
 public class MyBatisConfig {
 }
