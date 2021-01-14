@@ -1,5 +1,4 @@
 package com.paoking.ease.nosql.elasticsearch.repository;
-
 import com.paoking.ease.nosql.elasticsearch.document.EsProduct;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -7,7 +6,7 @@ import org.springframework.data.elasticsearch.repository.ElasticsearchRepository
 
 /**
  * 商品ES操作类
- * Created by macro on 2018/6/19.
+ * Created by zq.
  */
 public interface EsProductRepository extends ElasticsearchRepository<EsProduct, Long> {
     /**
