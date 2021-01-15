@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f40e231-f26b-4ae5-9cf6-1cee2f001a45" name="Default Changelist" comment="AOP把日志信息切入">
-      <change afterPath="$PROJECT_DIR$/ease/src/main/java/com/paoking/ease/component/WebLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ease/src/main/java/com/paoking/ease/dto/WebLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f40e231-f26b-4ae5-9cf6-1cee2f001a45" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/ease/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -395,7 +391,7 @@
       <updated>1609835428226</updated>
       <workItem from="1609835429447" duration="790000" />
       <workItem from="1609836330544" duration="29588000" />
-      <workItem from="1610334678275" duration="20766000" />
+      <workItem from="1610334678275" duration="21378000" />
     </task>
     <task id="LOCAL-00001" summary="基础架构搭建">
       <created>1609917638534</created>
@@ -453,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610614123201</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="AOP把日志信息切入">
+      <created>1610615473772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610615473772</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51144000" />
+    <option name="totallyTimeSpent" value="51756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="37" width="1346" height="674" extended-state="0" />
